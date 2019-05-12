@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>gh surti kolam2	(21).jpg</filename>
+	<path>G:\Project\furniture_VGG\rice dataset\train\gh surti kolam2	(21).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>gh surti kolam_3</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>24</xmin>
+			<ymin>11</ymin>
+			<xmax>434</xmax>
+			<ymax>471</ymax>
+		</bndbox>
+	</object>
+</annotation>

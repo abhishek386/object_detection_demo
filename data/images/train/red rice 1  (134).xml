@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>red rice 1	(134).jpg</filename>
+	<path>G:\Project\furniture_VGG\rice dataset\train\red rice 1	(134).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>red rice_3</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>52</xmin>
+			<ymin>37</ymin>
+			<xmax>451</xmax>
+			<ymax>454</ymax>
+		</bndbox>
+	</object>
+</annotation>
