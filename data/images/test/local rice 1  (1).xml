@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>local rice 1	(1).jpg</filename>
+	<path>G:\Project\furniture_VGG\rice dataset\test\local rice 1	(1).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>i</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>51</xmin>
+			<ymin>14</ymin>
+			<xmax>410</xmax>
+			<ymax>461</ymax>
+		</bndbox>
+	</object>
+</annotation>
